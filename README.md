@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![Test your memory! Losing Demo](http://g.recordit.co/NjLE8cVeuW.gif)
 
-![Test your memory! Winning Demo]("http://g.recordit.co/ocnrPIMf2H.gif")
+![Test your memory! Winning Demo](http://g.recordit.co/SUToqsiGTO.gif)
 
 ## Reflection Questions
 
