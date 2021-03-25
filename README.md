@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Test your memory! Losing Demo]("http://g.recordit.co/9KSa1mApEK.gif")
+![Test your memory! Losing Demo](http://g.recordit.co/NjLE8cVeuW.gif)
 
 ![Test your memory! Winning Demo]("http://g.recordit.co/ocnrPIMf2H.gif")
 
