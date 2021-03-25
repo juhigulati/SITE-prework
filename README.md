@@ -41,10 +41,12 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Losing Demo:
+
 ![Test your memory! Losing Demo](http://g.recordit.co/NjLE8cVeuW.gif)
 
 Winning Demo:
-![Test your memory! Winning Demo](http://g.recordit.co/SUToqsiGTO.gif)
+
+![Test your memory! Winning Demo](http://g.recordit.co/33vMv0nGDl.gif)
 
 ## Reflection Questions
 
